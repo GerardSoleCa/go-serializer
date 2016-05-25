@@ -4,7 +4,9 @@ This module provides function to go from string to [opaque] string or vice & ver
 
 ## Installation
 
-go get github.com/GerardSoleCa/go-serializer
+```bash
+$ go get github.com/GerardSoleCa/go-serializer
+```
 
 ## Usage
 
